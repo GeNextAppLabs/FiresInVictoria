@@ -22,13 +22,13 @@ For the purposes of this Disclaimer:
 
 All information on the Application is provided "as is", with no guarantee of completeness, accuracy, timeliness or of the results obtained from the use of this information, and without warranty of any kind, express or implied, including, but not limited to warranties of performance and fitness for a particular purpose.
 
-The Software Provider will not be liable to You or anyone else for any decision made or action taken in reliance on the information given by the Application or for any consequential, special or similar damages, even if advised of the possibility of such damages.
+The Software Provider will not be liable to You nor anyone else for any decision made or action taken in reliance on the information given by the Application or for any consequential, special or similar damages, even if advised of the possibility of such damages.
 
 
 ## External Links
 
-The Application may contain links to external websites that are not provided or maintained by or in any way affiliated with the Software Provider.
-Please note that the Software Provider does not guarantee the accuracy, relevance, timeliness, or completeness of any information on these external websites.
+The Application may contain links to external websites that are not provided nor maintained by or in any way affiliated with the Software Provider.
+Please note that the Software Provider does not guarantee the accuracy, relevance, timeliness, nor completeness of any information on these external websites.
 
 
 ## Changes to this Disclaimer
@@ -37,9 +37,10 @@ We may update Our Disclaimer from time to time. We will notify You of any change
 
 You are advised to review this Disclaimer periodically for any changes. Changes to this Disclaimer are effective when they are posted on this page.
 
-**Last updated: 28 August 2025**
+**Last updated: 1 December 2025**
 
 
 ## Contact Us
 
 If You have any questions about Our Disclaimer, do not hesitate to contact Us by email at genextapplabs@gmail.com
+
