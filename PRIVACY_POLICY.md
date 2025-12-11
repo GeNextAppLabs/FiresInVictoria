@@ -72,7 +72,7 @@ Usage and Diagnostics Data is Collected automatically, with Your prior permissio
 We do not share this type of data with third parties.
 
 
-## Children’s Privacy
+## Childrenâ€™s Privacy
 
 We do not use the Application to knowingly solicit data from or market to children under the age of 13. If a parent or guardian becomes aware that his or her child has provided Us with information without their consent, he or she should contact Us by email at genextapplabs@gmail.com
 
@@ -88,9 +88,10 @@ We may update Our Privacy Policy from time to time. We will notify You of any ch
 
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
-**Last updated: 28 August 2025**
+**Last updated: 1 December 2025**
 
 
 ## Contact Us
 
 If You have any questions about Our Privacy Policy, do not hesitate to contact Us by email at genextapplabs@gmail.com
+
